@@ -1,1 +1,2 @@
+subst x: C:\Users\Yamasuge\Downloads\googletest-master\googletest-master\googletest
 X:\: => C:\Users\Yamasuge\Downloads\googletest-master\googletest-master\googletest
